@@ -27,4 +27,5 @@ set_num_threads(thread_count)
 psi4 --help  # list all options
 ```
 
-
+## Examples
+[official](https://github.com/psi4/psi4/tree/master/samples)
